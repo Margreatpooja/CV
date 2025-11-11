@@ -179,14 +179,14 @@ body {
 }
 
 .navbar-item:hover {
-  color: #FF3EA5;
+  color: white;
   text-shadow: 0 0 8px #fff, 0 0 16px #FF3EA5;
  
   
 }
 
 .navbar-item.active {
-  color: #FF3EA5;
+  color: white;
   text-shadow: 0 0 8px #fff, 0 0 16px #FF3EA5;
   
 }
